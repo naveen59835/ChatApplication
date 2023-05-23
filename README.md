@@ -38,5 +38,3 @@ Usage
 Open the index.html file in your web browser.
 Enter your desired name and join a chat room.
 Start chatting with others in real-time.
-Contributing
-Contributions to the ChatApplication are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request on the project's GitHub repository.
