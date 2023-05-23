@@ -3,14 +3,7 @@
 window.onload = function() {
     // Your web app's Firebase configuration
     const firebaseConfig = {
-        apiKey: "AIzaSyDzQNszj7soe3UaPJe6oGcyr1pfRDtVspA",
-        authDomain: "chatapp-bfdfb.firebaseapp.com",
-        databaseURL: "https://chatapp-bfdfb-default-rtdb.firebaseio.com",
-        projectId: "chatapp-bfdfb",
-        storageBucket: "chatapp-bfdfb.appspot.com",
-        messagingSenderId: "895152681543",
-        appId: "1:895152681543:web:7c7233a44b9f84e9283762",
-        measurementId: "G-M1HW55N171"
+    //your firebase config
       };
     // Initialize Firebase
     firebase.initializeApp(firebaseConfig);
