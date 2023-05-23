@@ -34,7 +34,7 @@ var firebaseConfig = {
   appId: "YOUR_APP_ID"
 };
 Save the changes in script.js.
-Usage
-Open the index.html file in your web browser.
-Enter your desired name and join a chat room.
-Start chatting with others in real-time.
+## Usage
+ Open the index.html file in your web browser.
+ Enter your desired name and join a chat room.
+ Start chatting with others in real-time.
