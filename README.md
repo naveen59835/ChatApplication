@@ -24,17 +24,17 @@ To set up the ChatApplication:
 1. Create a new Firebase project.
 2. Copy the Firebase Configuration provided and paste it in the `script.js` file.
 
-javascript
-var firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_AUTH_DOMAIN",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_STORAGE_BUCKET",
-  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-  appId: "YOUR_APP_ID"
-};
-Save the changes in script.js.
+## javascript
+# var firebaseConfig = {
+ # apiKey: "YOUR_API_KEY",
+ # authDomain: "YOUR_AUTH_DOMAIN",
+ # projectId: "YOUR_PROJECT_ID",
+ # storageBucket: "YOUR_STORAGE_BUCKET",
+ # messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
+ # appId: "YOUR_APP_ID"
+# };
+# Save the changes in script.js.
 ## Usage
- Open the index.html file in your web browser.
- Enter your desired name and join a chat room.
- Start chatting with others in real-time.
+# Open the index.html file in your web browser.
+# Enter your desired name and join a chat room.
+# Start chatting with others in real-time.
